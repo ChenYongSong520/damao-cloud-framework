@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.damao.cloud.framework.starter.sms.config.BaseAutoConfiguration
